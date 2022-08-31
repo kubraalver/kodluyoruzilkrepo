@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://wwwkodluyoruz.org) Front-End Eğitiminde oluşturdu
 <br>
 
 ## Installation
----
+
 Öncelikle projeyi clonelayın.
 ```
 https://github.com/kubraalver/kodluyoruzilkrepo.git
@@ -16,7 +16,7 @@ https://github.com/kubraalver/kodluyoruzilkrepo.git
 <br>
 
 ## Usage
----
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -28,7 +28,7 @@ code .
 <br>
 
 ## Contributing
----
+
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
@@ -36,7 +36,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
----
+
 <br>
 
 [MIT](https://choosealicense.com/licenses/mit/)
